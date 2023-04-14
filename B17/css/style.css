@@ -1,4 +1,16 @@
-* {}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    list-style: none;
+}
+
+img {
+    vertical-align: top;
+    border: 0;
+}
 
 .band1 {
     width: 100%;
@@ -39,6 +51,10 @@ header {
     height: 100px;
     float: left;
 
+}
+
+.logo img {
+    margin-top: 30px;
 }
 
 nav {
