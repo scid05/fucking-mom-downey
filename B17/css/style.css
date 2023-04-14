@@ -1,9 +1,14 @@
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
     list-style: none;
 }
 
@@ -58,9 +63,8 @@ header {
 }
 
 nav {
-    width: 1000px;
-    height: 100px;
-    float: left;
+    width: 600px;
+    float: right;
 
 }
 
